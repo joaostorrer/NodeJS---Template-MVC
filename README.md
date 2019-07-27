@@ -1,0 +1,1 @@
+# Este é um template para trabalhar com o design pattern MVC em NodeJS
